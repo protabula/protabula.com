@@ -1,0 +1,22 @@
+{
+  "name": "www.protabula.com",
+  "homepage": "https://github.com/protabula/protabula.com",
+  "authors": [
+    "ProTabula LLC <dan@protabula.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
