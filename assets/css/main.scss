@@ -1,0 +1,8 @@
+---
+# The scss file which include files from _sass/
+---
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "bootstrap.scss", 
+        "carousel.scss"
+;

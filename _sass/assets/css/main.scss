@@ -1,0 +1,9 @@
+---
+# The scss file which include files from _sass/
+---
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import url(//fonts.googleapis.com/css?family=Roboto+Condensed:400,500,900|Leckerli+One);
+@import
+        "bootstrap", 
+        "carousel"
+;
