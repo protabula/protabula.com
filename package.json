@@ -1,0 +1,28 @@
+{
+  "name": "www.protabula.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-copy": "0.0.2",
+    "gulp-expect-file": "0.0.7",
+    "gulp-sass": "^2.2.0",
+    "holderjs": "^2.9.1",
+    "tether": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protabula/protabula.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/protabula/protabula.com/issues"
+  },
+  "homepage": "https://github.com/protabula/protabula.com#readme"
+}

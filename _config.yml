@@ -21,4 +21,8 @@ markdown: kramdown
 sass:
     sass_dir: _sass
 
-exclude: [ .bowerrc, bower.json ]
+exclude: [ 
+    package.json,
+    node_modules,
+    gulpfile.js
+]

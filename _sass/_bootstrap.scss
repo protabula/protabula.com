@@ -1,4 +1,4 @@
-@import "../assets/bower/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/variables";
 
 @import url(//fonts.googleapis.com/css?family=Roboto+Condensed:400,500,900|Leckerli+One);
 
@@ -10,6 +10,6 @@ $brand-secondary:           #FF7373 !default;
 
 
 
-@import "../assets/bower/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/bootstrap";
 
 
