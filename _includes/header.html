@@ -2,12 +2,8 @@
   <a href="#" class="navbar-brand">{{ site.title }}</a>
   <ul class="nav navbar-nav">
     {% for nav_item in site.data.nav %}
-        {% if page.url == nav_item.link %}
-        <li class="nav-item active">
-        {% else %}
         <li class="nav-item">
-        {% endif %}
-        <a href="{{ nav_item.link }}">{{ nav_item.name }}</a>
+            <a class="nav-link" href="{{ nav_item.link }}">{{ nav_item.name }}</a>
         </li>
     {% endfor %}
   </ul>
