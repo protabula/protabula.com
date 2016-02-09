@@ -18,8 +18,9 @@
             "taskName": "Jekyll Build",
             "suppressTaskName": true,
             "isBuildCommand": true,
+            "isWatching": false,
             "args": [
-                "gulp && jekyll build --safe"
+                "gulp && jekyll build --safe;"
             ]
         },
         {

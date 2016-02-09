@@ -4639,3 +4639,7 @@ body {
 @media (min-width: 62em) {
   .featurette-heading {
     margin-top: 7rem; } }
+
+.navbar-light .navbar-brand {
+  color: #0870be !important;
+  font-family: "Leckerli One", cursive !important; }

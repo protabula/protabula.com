@@ -4,3 +4,12 @@
         "bootstrap.scss", 
         "carousel.scss"
 ;
+
+
+// yolo
+.navbar-light{ 
+    .navbar-brand {
+        color: $brand-primary !important;
+        font-family: $brand-font !important;   
+    }
+}
