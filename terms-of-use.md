@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Terms of Use
+published: true
 ---
-#PROTABULA, LLC. (“PROTABULA”) ProTabula SERVICE USER LICENSE AGREEMENT
+
+## PROTABULA, LLC. (“PROTABULA”) ProTabula SERVICE USER LICENSE AGREEMENT
 
 This PROTABULA License Agreement (“Agreement”) governs access to and use of fee-based products and services offered by PROTABULA. By accessing, using, printing, displaying or registering for such services or products, you (“CUSTOMER”) agree to the terms of this Agreement in which, CUSTOMER receives a limited license to access, use, print, display or register for such services or products for an initial one school year (August 1 — July 31) period.
 
@@ -12,7 +14,7 @@ PROTABULA has developed a web-based, school-wide system designed to capture, com
 
 WE MAY REVISE AND UPDATE THIS AGREEMENT AT ANY TIME. PLEASE PERIODICALLY REVIEW THIS AGREEMENT POSTED ON THE SERVICE BECAUSE YOUR USE OF THE SERVICE IS GOVERNED BY THIS AGREEMENT. TO THE EXTENT ANY MODIFICATION TO THIS AGREEMENT MATERIALLY AFFECTS YOUR RIGHTS OR OBLIGATIONS UNDER THIS AGREEMENT, THE UPDATED AGREEMENT WILL BE PRESENTED TO YOU UPON YOUR NEXT LOG-IN TO THE SERVICE AND YOU WILL BE REQUIRED TO ACCEPT THE UPDATED AGREEMENT BEFORE PROCEEDING TO THE SERVICE.
 
-####1. License Grant
+### 1. License Grant
 
 PROTABULA hereby grants to CUSTOMER and CUSTOMER hereby accepts from PROTABULA a limited, non-exclusive, non-transferable, revocable license to access, print and use the software for the limited purposes of capturing, communicating, and reporting behavioral event of each LICENSED USER associated with CUSTOMER (as defined below).
 “CUSTOMER” is a person, organization, public entity, business entity or enterprise which: (1) has paid a license fee to or is otherwise authorized by PROTABULA to access, print and use the SERVICE on behalf of a LICENSED USER; and (2) CUSTOMER and LICENSED USER have agreed to be bound by the terms and conditions of this Agreement.
@@ -23,7 +25,7 @@ If CUSTOMER is a corporation, or public body such as a School, or School Distric
 In this Agreement, all references to CUSTOMER shall include LICENSED USER.
 Upon expiration or termination of this Agreement, the nonexclusive limited license granted above shall automatically and immediately terminate and CUSTOMER agrees not to access, print or use the SERVICE and, upon request of PROTABULA, to return all SERVICE then in possession of CUSTOMER to PROTABULA or destroy and certify to PROTABULA the manner and date of that CUSTOMER destroyed same.
 
-####2. Disclaimer on ProTabula Liability
+### 2. Disclaimer on ProTabula Liability
 
 User understands that the Service may contain, errors, “bugs” and other problems, which may result in system failure or failure in the use of the Service or loss of data or access by third parties to personally identifiable information or education records provided to ProTabula or obtained by User or on User’s behalf through use of the Service. The Service may not be continuously available due to maintenance or repairs or due to computer, equipment or device problems or crashes, disruption in Internet service or other unforeseen circumstances beyond ProTabula’s control. Further, a reference to a product or service on or in the Service does not imply that such product or service is or will be available. The Service, including without limitation all documentation, training and guidance Service provided to or accessed by User in connection with the Service (collectively, “Documentation”), is provided to User “AS IS”, “WITH ALL FAULTS”, and ProTabula disclaims any warranty or liability obligations to User of any kind. Without limiting the foregoing, User acknowledges and agrees that in no event shall ProTabula be responsible or liable for (i) maintaining, storing or transmitting data generated through User’s use of the Services, including without limitation data input by User regarding students’ behavior; and (ii) any changes or modifications to settings for the Service or modified functionality in connection with the Site’s adoption of and license to the fee-based model of the Service. THE SERVICE AND DOCUMENTATION ARE NOT INTENDED IN ANY WAY TO BE A SUBSTITUTE FOR PROFESSIONAL JUDGMENT OF AN EDUCATOR, TEACHER OR SCHOOL, DISTRICT OR SITE ADMINISTRATOR. ProTabula DOES NOT MAKE ANY EXPRESS, IMPLIED, OR STATUTORY WARRANTY OR CONDITION OF ANY KIND FOR THE SERVICE and/or documentation INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY OR CONDITION WITH REGARD TO THE SERVICE’S and/or documentation’s PERFORMANCE, MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, SECURITY, NON-INFRINGEMENT, DATA OR SYSTEM INTEGRITY, DATA ACCURACY, OR RESULTS THAT MAY BE OBTAINED FROM OR THROUGH THE SERVICE and/or documentation.
 
@@ -33,33 +35,33 @@ IT IS USER’S SOLE RESPONSIBILITY TO BACK-UP ALL DATA, INCLUDING WITHOUT LIMITA
 
 SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, AND SO PARTS OF THE ABOVE LIMITATION MAY NOT APPLY TO USER. IF ANY EXCLUSION, DISCLAIMER OR OTHER PROVISION CONTAINED IN THIS agreement IS HELD TO BE INVALID FOR ANY REASON BY A COURT OF COMPETENT JURISDICTION AND PROTABULA BECOMES LIABLE THEREBY FOR LOSS OR DAMAGE THAT COULD OTHERWISE BE LIMITED, PROTABULA’S TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT OR OTHERWISE, AND WHETHER INCURRED WITH RESPECT TO ONE CLAIM, OR CUMULATIVELY INCURRED FROM MULTIPLE RELATED OR UNRELATED CLAIMS ARISING UNDER THIS AGREEMENT, WILL NOT EXCEED ONE HUNDRED DOLLARS ($100.00 USD).
 
-####3. Interactive Areas; Feedback; Idea Submission
+### 3. Interactive Areas; Feedback; Idea Submission
 
 The Service may include comments capabilities, bulletin boards and other interactive areas (“Interactive Areas”) on or in the Service. You are solely responsible for your own communications, comments, submissions and posted Service and the consequences of posting those communications, comments, submissions and Service, including without limitation any and all education records (as that term is defined FERPA 34 CFR § 99.3) you create or that are created under your account in connection with the Service (collectively, “Material”). We do not assume any responsibility for the truthfulness, accuracy or reliability of any Material posted on any Interactive Area, or of consequences of any Material or Interactive Area communications on or arising from use of the Service.
 You are solely responsible for your interaction with other users of the Service, whether online or offline. You acknowledge and agree that Material you submit or upload may be searchable and viewable by ProTabula and other users employed by the Site. You agree that ProTabula is not responsible or liable for the conduct of any user. ProTabula reserves the right, but has no obligation, to monitor or become involved in disputes between you and other users. Exercise common sense and your best judgment when interacting with others, including when you submit or post any Material on any Interactive Area.
 User acknowledges and agrees that User may be providing certain feedback, statements, suggestions and ideas (“Ideas”) to ProTabula, directly or through a third party, in connection with User’s use of the Service, which ProTabula may use in future modifications to the Service, multimedia works and/or advertising and promotional Service relating thereto. In addition, User acknowledges and agrees that ProTabula will have access to certain analytic and demographic data (“Data”) with respect to User’s use of the Service. In consideration of your access to the Service, User hereby irrevocably assigns to ProTabula any and all rights, title and interest in any Ideas and Data, including but not limited to any copyright, patent right, moral right, and all other intellectual property rights. You agree to execute and deliver such other documentation and take such actions as ProTabula may deem necessary or desirable to carry out and/or effectuate the assignment of rights in and to the Ideas and Data set forth in this section and assist ProTabula in exercising all rights and enjoying all benefits with respect thereto.
 User acknowledges and agrees that submission of Material, Ideas and Data to ProTabula, either orally or in writing, will not in any way establish a confidential relationship with ProTabula, nor will it place ProTabula in the position of receiving a disclosure in trust. ProTabula will not be obligated and makes no commitment to treat or maintain Ideas which User submits as confidential. In addition, User does not expect nor will User receive any type of payment or remuneration from ProTabula for Ideas or Data. User agrees that all documents and Service submitted to ProTabula will become the property of ProTabula, unless ProTabula agrees otherwise in writing. No obligation is assumed or may be implied on the part of ProTabula by receipt or examination of the Idea or Data submission to use the Ideas and Data, compensate User, or otherwise enter into another agreement with User.
 
-####4. Proprietary Rights.
+### 4. Proprietary Rights.
 
 The Service and any intellectual property, information, data or other Service furnished or provided to User by ProTabula (“ProTabula IP”) in connection with this Agreement are the sole and exclusive property of ProTabula, and are available to User solely for purposes of User’s use of and access to the Service in accordance with the terms of this Agreement. Except for the limited rights granted herein, nothing in this Agreement shall transfer to User any right, title, or interest in or to any ProTabula IP. Without limiting the generality of the foregoing, User agrees that User shall not (i) modify, alter, adapt, translate, copy or create derivative works or any functionally similar service or software based on the Service or other ProTabula IP, or attempt to merge the Service or other ProTabula IP into any other program, software, or application; (ii) reverse-engineer or otherwise attempt to obtain or perceive the source code of the Service or other ProTabula IP (or any component thereof); (iii) build a competitive product service using all or any portion of the ProTabula IP; (iv) copy any ideas, features, functions or graphics of the ProTabula IP; or (v) remove, change or obscure any identification marks or notices of proprietary rights and restrictions on the ProTabula IP or any elements of the ProTabula IP. User acknowledges that a breach of this Section 5 would cause irreparable harm to ProTabula, the extent of which would be difficult to ascertain and for which money damages would not be accurate. Accordingly, User agrees that, without limiting any other remedies to which ProTabula may be legally entitled, ProTabula shall have the right to obtain immediate injunctive relief in the event of a breach or threatened breach of this Section 5 by User without the posting of bond or showing of irreparable harm.
 
-####5. Authorization
+###5. Authorization
 
 The use of the SERVICE is strictly limited to those provided for in this Agreement. The SERVICE may be used only for educational, academic research and similar purposes. The SERVICE may be used only for their stated and published purposes.
 CUSTOMER agrees that the SERVICE will not be:
-(a) used for any “for-profit” commercial activities, unless specifically agreed in writing by PROTABULA, including any use of any trademark of PROTABULA;
-(b) copied, duplicated, modified, translated, adapted, publicly displayed, or publicly performed without the express written consent of PROTABULA;
-(c) downloaded, transmitted, or re-transmitted or transferred for the purpose of evading the prohibition on copying, duplication or modification;
-(d) sold, transferred, conveyed, pledged licensed, or sub-licensed;
-(e) reverse engineered, decompiled, disassembled or subject to efforts to derive source code for any software and/or computer code components of the SERVICE; or
-(f) exploited for any purpose different from or contrary to the rights and interests of PROTABULA or inconsistent with the stated terms and purposes of this Agreement.
+* (a) used for any “for-profit” commercial activities, unless specifically agreed in writing by PROTABULA, including any use of any trademark of PROTABULA;
+* (b) copied, duplicated, modified, translated, adapted, publicly displayed, or publicly performed without the express written consent of PROTABULA;
+* (c) downloaded, transmitted, or re-transmitted or transferred for the purpose of evading the prohibition on copying, duplication or modification;
+* (d) sold, transferred, conveyed, pledged licensed, or sub-licensed;
+* (e) reverse engineered, decompiled, disassembled or subject to efforts to derive source code for any software and/or computer code components of the SERVICE; or
+* (f) exploited for any purpose different from or contrary to the rights and interests of PROTABULA or inconsistent with the stated terms and purposes of this Agreement.
 
-####6. Ownership
+### 6. Ownership
 
 CUSTOMER is granted a limited non-exclusive limited license to use the SERVICE under the terms of this Agreement in the business or professional activities of CUSTOMER. All right, title, and interest in and to the SERVICE, all data that the CUSTOMER enters, uses for communication, and/or reports via the SERVICE, the personal and business information PROTABULA captures for registration and billing purposes and all intellectual property rights in and to the SERVICE, and the website of PROTABULA, and all other Service shall remain solely vested in, to and with PROTABULA.
 
-####7. License Charges
+### 7. License Charges
 
 ProTabula license services are based on per student, per school year fees. The fee to activate license will be based on number of unique students entered into the system after two weeks into the school year. PROTABULA will not credit license fees for any reason at any time.
 Certain “License Services” are available only from PROTABULA via a dedicated service to which the following applies:
@@ -67,19 +69,19 @@ Certain “License Services” are available only from PROTABULA via a dedicated
 (b) In addition to the charges set forth above, CUSTOMER is responsible for all expenses and charges associated with accessing the internet; connecting to the License Service; and any service fees associated with such access and connection. CUSTOMER is also responsible for providing all equipment necessary for CUSTOMER to make such connection, including without limitation, computer and modem and/or network connection. This includes all equipment and software used to load and print files.
 (c) For purposes of identification and billing, CUSTOMER agrees to provide PROTABULA with accurate, current and complete information as required during registration for the License Services, including, without limitation, the legal name, address, telephone number(s), e-mail address, and applicable payment data (e.g. credit card number and expiration date) for CUSTOMER and to maintain and update this information to keep it accurate, current and complete. Failure to provide and maintain accurate, current and complete information may, at the option of PROTABULA, result in immediate suspension or termination of this Agreement and the License Services.
 
-####8. Multi Customer Accounts
+### 8. Multi Customer Accounts
 
 This license for each License Service creates a single account. CUSTOMER may then create additional users within that account, and users that CUSTOMER creates, imports, and/or any other kind of user creation within the account shall be fully subject to this Agreement.
 
-####9. Password
+### 9. Password
 
 As part of the registration process for License Services, CUSTOMER will receive a temporary password via user’s login email address. CUSTOMER is solely responsible for maintaining the confidentiality of the CUSTOMER password and agrees that PROTABULA has no obligations with regard to the use by third parties of such password. CUSTOMER is entirely responsible for any activity occurring under the CUSTOMER account and password. CUSTOMER agrees to notify PROTABULA immediately if CUSTOMER has any reason to believe that the security of CUSTOMER data or any password has been compromised.
 
-####10. Privacy & Security
+### 10. Privacy & Security
 
 PROTABULA has taken reasonable actions, including use of encryption and firewalls, to ensure that data and information of CUSTOMER is disclosed only to those designated by CUSTOMER, as set forth in the applicable Privacy Policy posted below on this agreement. However, CUSTOMER acknowledges that the Internet is an open system and PROTABULA cannot and does not warrant or guarantee that third parties will not intercept same.
 
-####10a. Privacy Policy.
+### 10a. Privacy Policy.
 
 We provide the following privacy policy in this Section 10a (the “Privacy Policy”) in order to demonstrate our firm commitment to privacy. This Privacy Policy applies only to information collected through the Service and not to information collected offline. Questions regarding this Privacy Policy should be directed to ProTabula by email at info@ProTabula.com.
 There are two kinds of information that we may obtain about you: (1) Anonymous Information and (2) Personally Identifiable Information.
@@ -92,40 +94,40 @@ As ProTabula continues to develop the Service and business, we may buy, merge or
 Protecting the privacy of children is very important to us. The Children's Online Privacy and Protection Act of 1998 (“COPPA”) defines a “Child” as anyone under the age of
 We strictly adhere to COPPA. For that reason, we do not collect or maintain information obtained through the Service from those we actually know are under 13, and no part of the Service are structured to attract anyone under 13.
 
-####11. Server Availability and Scheduled Down Times
+### 11. Server Availability and Scheduled Down Times
 
 Third-party server maintenance is routinely performed and CUSTOMER may experience some down times in usage based upon the needed improvements. In the event a mission-critical maintenance situation arises, PROTABULA may be required to perform emergency maintenance at any time. During these scheduled and emergency maintenance periods, CUSTOMER may be unable to transmit and receive data. CUSTOMER agrees to accept the risk of such unavailability and to fully cooperate with PROTABULA during the scheduled and emergency maintenance periods.
 
-####12. Indemnification
+### 12. Indemnification
 
 CUSTOMER hereby agrees to indemnify, defend, and hold harmless PROTABULA from and against any and all claims, proceedings, damages, liability, and costs (including reasonable attorney fees) incurred by PROTABULA in connection with any claim arising out of (i) any breach or alleged breach of any of CUSTOMER obligations set forth herein, (ii) any acts by CUSTOMER, or (iii) SERVICE or information posted or transmitted by CUSTOMER in connection with the License Service regardless of the type or nature of the claim. CUSTOMER shall cooperate as fully as reasonably required in the defense of any claim. PROTABULA reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by CUSTOMER and CUSTOMER shall not in any event settle any matter without the written consent of PROTABULA.
 
-####13. Limitation of Liabilities and Remedies
+### 13. Limitation of Liabilities and Remedies
 
 THE SERVICE AND THE LICENSE SERVICES (INCLUDING ALL CONTENT, SOFTWARE AND FUNCTIONS) ARE PROVIDED “AS IS” AND “AS AVAILABLE” AND “WITH ALL FAULTS” WITHOUT WARRANTY OF ANY KIND. PROTABULA MAKES NO WARRANTY OF ANY KIND WHATSOEVER, EXPRESS OR IMPLIED. ANY AND ALL WARRANTIES ARE EXPRESSLY DISCLAIMED, INCLUDING WITHOUT LIMITATION, TITLE, SECURITY, ACCURACY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AVAILABILITY, OR UNINTERRUPTED ACCESS. PROTABULA DISCLAIMS AND CUSTOMER WAIVES ALL LIABILITY ARISING FROM THE ACCESS, USE AND PRINTING OF THE SERVICE AND PROVISION OF THE SERVICE AND THE LICENSE SERVICES.
 IN NO EVENT SHALL THE LIABILITY OF PROTABULA TO CUSTOMER OR ANY THIRD PARTY FOR DAMAGES FOR ANY CAUSE WHATSOEVER RELATED TO OR ARISING OUT OF THIS AGREEMENT EXCEED THE AMOUNT PAID BY CUSTOMER TO PROTABULA DURING THE PRECEDING TWELVE MONTHS. IN NO EVENT WILL PROTABULA BE LIABLE FOR ANY LOST PROFITS, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE ANY SERVICE OR THE LICENSE SERVICE EVEN IF PROTABULA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. CUSTOMER AGREES THAT ANY CLAIM ARISING FROM USE OF OR ACCESS TO THE SERVICE PROVISION OF ANY LICENSE SERVICES MUST BE MADE WITHIN ONE (1) YEAR OF THE FIRST DATE SUCH CLAIM FIRST ACCRUED OR SHALL BE DISMISSED AS UNTIMELY AND FOREVER BARRED.
 THIS LIMITATION OF LIABILITY APPLIES TO ANY EXPENSES, DAMAGES OR INJURY CAUSED BY ANY FAILURE OF PERFORMANCE, ERROR OF OMISSION, INTERRUPTION, DELETION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS, COMMUNICATION LINE FAILURE, THEFT, DESTRUCTION, OR UNAUTHORIZED ACCESS TO, ALTERATION OF, OR USE OF DATA RECORDS, WHETHER FOR BREACH OF CONTRACT, STRICT LIABILITY, TORTUOUS BEHAVIOR, NEGLIGENCE, OR FOR ANY OTHER CAUSE OF ACTION.
 
-####14. Term and Termination
+### 14. Term and Termination
 
 This Agreement has a term of one (1) school year (August 1 — July 31) and must be renewed each following school years by CUSTOMER for continued service.
 Either CUSTOMER or PROTABULA may cancel or terminate this Agreement upon thirty (30) days written notice to the other via electronic mail or conventional mail, and all fees for the then-present term of this Agreement shall immediately become fully due and payable.
 PROTABULA reserves the right to restrict, suspend or terminate CUSTOMER access to the License Services in whole or in part without notice and without liability, with respect to any breach or threatened breach of any portion of this Agreement. If PROTABULA terminates this Agreement based on a breach of any portion of this Agreement, PROTABULA reserves the right to refuse to provide License Services to CUSTOMER.
 Subject to the PROTABULA Privacy Policy, if the Agreement is terminated by PROTABULA for reasons other than breach of this Agreement by CUSTOMER, any student data entered by CUSTOMER will be made available to CUSTOMER either through a third party offsite vault storage provider or directly from PROTABULA for up to ninety (90) days after termination. Charges may apply.
 
-####15. Modifications to License Agreement and License Services
+### 15. Modifications to License Agreement and License Services
 
 PROTABULA reserves the right to modify this Agreement, and the software or policies associated with the License Services and any SERVICE at anytime without advance notice to CUSTOMER. Any modification shall take effect immediately when same is posted to www.ProTabula.com and/or notification via email. CUSTOMER may not assign, sell, distribute, lease, rent, sublicense, or transfer the License Service or the license granted CUSTOMER herein or disclose the License Service to any other person. CUSTOMER continued use of the License Services following any modification shall be conclusively deemed an acceptance of all such modification(s). PROTABULA reserves the right to modify, suspend or discontinue the License Services or any portion thereof at any time, including the availability of any functional area of the License Service. PROTABULA may also impose limits on certain features and services or restrict CUSTOMER access thereto without notice or liability.
 
-####16. Student Data Escrow
+### 16. Student Data Escrow
 
 CUSTOMER has the ability to export their data at any time. However, PROTABULA will produce regular backups of any student data of CUSTOMER and will escrow these backups. Assuming all fees owed by CUSTOMER are current and have been paid, CUSTOMER may request that any of the student data of CUSTOMER be copied to physical data storage media and provided to CUSTOMER. Charges will apply for this service. This service (receiving data) will be available to CUSTOMER only during the term of this Agreement and for a maximum period of three (3) months following the termination or expiration of this Agreement. After the three (3) month period expires, all such data will be destroyed and not available to CUSTOMER.
 
-####17. Recommended Environment
+### 17. Recommended Environment
 
 Any modification, derivative work, translation, or adaptation to the SERVICE or the License Services by CUSTOMER shall be subject to a royalty-free, non-exclusive, irrevocable worldwide license to PROTABULA in and to same. CUSTOMER agrees to promptly report to PROTABULA all defects, inconsistencies, or issues arising from the SERVICE and the License Services. CUSTOMER acknowledges that additional maintenance fees and upgrade costs may accrue in the event that PROTABULA provides support for and/or is requested by CUSTOMER to rectify issues related thereto.
 
-####18. Acceptance
+### 18. Acceptance
 
 This Agreement must be accepted by CUSTOMER and PROTABULA. CUSTOMER may indicate acceptance of this Agreement by: (1) signing and returning to PROTABULA the printed acceptance form; (2) by electronic acceptance indicating that CUSTOMER accepts the Agreement; or (3) by accessing, printing, displaying and/or use of the SERVICE. If CUSTOMER submits a purchase order for any products or services covered by this Agreement, CUSTOMER agrees that any pre-printed terms of such purchase order shall not apply or modify this Agreement and that this Agreement shall solely control and govern the transaction and such purchase order shall constitute acceptance of this Agreement.
 The laws of the State of Missouri shall govern this Agreement and the interpretation and issues of enforcement related thereto without regard to any conflicts of laws provisions therein. CUSTOMER agrees to the personal and subject matter jurisdiction of the court sitting in the State of Texas. In the event that any provision of this Agreement is found invalid or unenforceable pursuant to judicial decree, the remainder of this Agreement shall be valid and enforceable according to its terms. “ProTabula” and “ProTabula”design are trademarks of ProTabula, LLC.
