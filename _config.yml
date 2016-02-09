@@ -20,3 +20,6 @@ url: "http://www.protabula.com" # the base hostname & protocol for your site
 markdown: kramdown
 exclude: [ .vscode, package.json, node_modules, gulpfile.js ]
 
+collections:
+- featurettes
+    
