@@ -13,3 +13,25 @@
         font-family: $brand-font !important;   
     }
 }
+
+.featurette-heading + p, 
+.featurette-heading + dl {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.card {
+    min-height: 360px;
+}
+
+.card-title + p {
+    @extend .card-text;
+}
+
+.mt0 {
+    margin-top: 0 !important;
+}
+
+.mb50 {
+    margin-bottom: 7rem;
+}
