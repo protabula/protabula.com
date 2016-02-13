@@ -1,19 +1,18 @@
 
-<div class="row">
 {% assign items = site.cards | sort: 'display_order' %}
 {% for item in items %}
-        <div class="col-lg-4">
-            <div class="card">
-                <img class="card-img-top" data-src="{{ item.image_src }}" alt="{{item.title}}">
-                <div class="card-block">
-                    <h4 class="card-title">{{item.title}}</h4>
-                        {{ item.content}}
-                </div>
-            </div>
-        </div>
-    {% endfor %}
+{% cycle 'add rows': '<div class="row">', nil, nil %}
+<div class="col-lg-4">
+    <div class="icon-holder">
+        {{item.icon}}
+        <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAPAAAAhwvv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+    </div>
+    <h3>{{item.title}}</h3>
+    {{item.content}}
 </div>
-
+{% cycle 'close rows': nil, nil, '</div>' %}
+{% endfor %}
+{% cycle 'close rows': nil, '</div>', '</div>' %}
 {% if site.teasers.size > 0 %}
     <hr class="featurette-divider">
 {% endif %}

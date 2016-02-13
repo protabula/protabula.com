@@ -46,12 +46,19 @@
     font-weight: 300;
 }
 
-.card {
-    min-height: 360px;
-}
-
-.card-title + p {
-    @extend .card-text;
+.icon-holder {
+    width: 140px;
+    margin: 0 auto;
+    position: relative;
+    margin-bottom: 1rem;
+    
+    i {
+        position: absolute;
+        font-size: 4rem;
+        margin-top: 38px;
+        margin-left: 36px;
+        color: #FFF;
+    }
 }
 
 .mt0 {
