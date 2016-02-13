@@ -4,12 +4,13 @@
 {% for item in items %}
 
     <div class="row featurette">
-        <div class="col-md-7 {% cycle '', 'col-md-push-5' %}">
+        
+        <div class="col-md-7 {% cycle  '', 'col-md-push-5' %}">
+            <img class="featurette-image img-fluid center-block" src="{{ item.image_src }}">
+        </div>
+        <div class="col-md-5 {% cycle  '', 'col-md-pull-7'  %}">
             <h2 class="featurette-heading">{{ item.title }} <span class="text-muted">{{ item.sub_title }}</span></h2>
             {{ item.content }}
-        </div>
-        <div class="col-md-5 {% cycle '', 'col-md-pull-7' %}">
-            <img class="featurette-image img-fluid center-block" src="{{ item.image_src }}">
         </div>
     </div>
 

@@ -5,6 +5,28 @@
         "carousel.scss"
 ;
 
+.jumbotron {    
+  padding-top: 6rem;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  @include gradient-vertical(#f7f7f9, rgba(0, 109, 204, 100));
+
+  img {
+      max-height: 550px;
+  }
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.marketing {
+    margin-top:6em;
+}
 
 // yolo
 .navbar-light{ 

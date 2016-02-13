@@ -4641,6 +4641,25 @@ body {
   .featurette-heading {
     margin-top: 7rem; } }
 
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  background-image: linear-gradient(to bottom, #f7f7f9 0%, #006dcc 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7F7F9', endColorstr='#FF006DCC', GradientType=0); }
+  .jumbotron img {
+    max-height: 550px; }
+
+.jumbotron p:last-child {
+  margin-bottom: 0; }
+
+.jumbotron-heading {
+  font-weight: 300; }
+
+.marketing {
+  margin-top: 6em; }
+
 .navbar-light .navbar-brand {
   color: #0870be !important;
   font-family: "Leckerli One", cursive !important; }
