@@ -4664,6 +4664,9 @@ body {
   color: #0870be !important;
   font-family: "Leckerli One", cursive !important; }
 
+.navbar-light .navbar-nav .nav-link {
+  color: inherit; }
+
 .featurette-heading + p,
 .featurette-heading + dl {
   font-size: 1.25rem;

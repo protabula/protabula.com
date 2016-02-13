@@ -28,11 +28,15 @@
     margin-top:6em;
 }
 
-// yolo
+// yolo.navbar-light .navbar-nav 
 .navbar-light{ 
     .navbar-brand {
         color: $brand-primary !important;
         font-family: $brand-font !important;   
+    }
+    
+    .navbar-nav .nav-link {
+        color: inherit;
     }
 }
 
