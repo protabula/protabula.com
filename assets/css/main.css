@@ -4649,6 +4649,15 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7F7F9', endColorstr='#FF006DCC', GradientType=0); }
   .jumbotron img {
     max-height: 550px; }
+  .jumbotron .brand {
+    font-family: "Leckerli One", cursive;
+    font-size: 60px;
+    color: #0870be; }
+    .jumbotron .brand small {
+      color: #FF7373;
+      font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      padding-left: 5px; }
 
 .jumbotron p:last-child {
   margin-bottom: 0; }
@@ -4666,25 +4675,43 @@ body {
 .navbar-light .navbar-nav .nav-link {
   color: inherit; }
 
-.featurette-heading + p,
-.featurette-heading + dl {
-  font-size: 1.25rem;
-  font-weight: 300; }
+heading {
+  margin-top: 2rem; }
+
+.featurette-heading {
+  margin-top: 2rem; }
+  .featurette-heading + p, .featurette-heading + dl {
+    font-size: 1.25rem;
+    font-weight: 300; }
+
+.featurette-image {
+  margin-bottom: 1rem; }
 
 .icon-holder {
   width: 140px;
   margin: 0 auto;
   position: relative;
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem;
+  background-color: #0870be;
+  height: 140px;
+  width: 140px; }
   .icon-holder i {
-    position: absolute;
+    line-height: inherit;
     font-size: 4rem;
-    margin-top: 38px;
-    margin-left: 36px;
+    margin-top: 23px;
     color: #FFF; }
 
 .mt0 {
   margin-top: 0 !important; }
 
+.mb2rem {
+  margin-bottom: 2rem; }
+
 .mb50 {
   margin-bottom: 7rem; }
+
+.ptb5 {
+  padding: 5rem 0; }
+
+.pb5 {
+  padding-bottom: 5rem; }

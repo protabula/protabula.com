@@ -3,6 +3,8 @@
 {% assign items = site.featurettes | sort: 'display_order' %}
 {% for item in items %}
 
+
+
     <div class="row featurette">
         
         <div class="col-md-7 {% cycle  '', 'col-md-push-5' %}">
@@ -14,7 +16,7 @@
         </div>
     </div>
 
-    {% if items.size > 1 %}
+    {% if items.size > 1 and forloop.last == false %}
         <hr class="featurette-divider">
     {% endif %}
 

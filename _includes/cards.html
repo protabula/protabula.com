@@ -3,9 +3,8 @@
 {% for item in items %}
 {% cycle 'add rows': '<div class="row">', nil, nil %}
 <div class="col-lg-4">
-    <div class="icon-holder">
+    <div class="img-circle icon-holder">
         {{item.icon}}
-        <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAPAAAAhwvv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
     </div>
     <h3>{{item.title}}</h3>
     {{item.content}}
