@@ -4646,7 +4646,9 @@ body {
   margin-bottom: 0;
   background-image: linear-gradient(to bottom, #f7f7f9 0%, #006dcc 100%);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7F7F9', endColorstr='#FF006DCC', GradientType=0); }
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF7F7F9', endColorstr='#FF006DCC', GradientType=0);
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0; }
   .jumbotron img {
     max-height: 550px; }
   .jumbotron .brand {
