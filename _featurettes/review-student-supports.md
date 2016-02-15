@@ -5,5 +5,4 @@ title: Review student
 sub_title: supports
 image_src: /assets/img/pt-network.gif
 ---
-
-Most importantly, educators will have the ability to connect behavior to academic impact and review student movement throughout their support continuum (e.g., buddy teacher, counselor, behavior interventionist, focus teacher, etc).  (Mailchimp) 
+Educators will have the ability to connect student behavior to academic impact by looking at time out of instruction and frequency of supports used. Most importantly, they can review student movement and the comments throughout their support continuum (e.g., buddy teacher, counselor, focus teacher and/or administrator).

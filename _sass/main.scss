@@ -27,6 +27,12 @@
         padding-left: 5px;
     }
   }
+  
+  @media (max-width: 33.9em) {
+    .brand {
+        font-size: 57px;
+    }
+ }
 }
 
 .jumbotron p:last-child {
