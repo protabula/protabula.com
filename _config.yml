@@ -18,10 +18,13 @@ url: "http://www.protabula.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-exclude: [ .vscode, package.json, node_modules, gulpfile.js ]
+exclude: [ .vscode, package.json, node_modules, gulpfile.js]
 
 collections:
-- featurettes
-- teasers
-- cards
+  featurettes:
+    output: false
+  teasers:
+    output: false
+  cards:
+    output: false
     

@@ -5,6 +5,7 @@
   "main": "index.html",
   "dependencies": {},
   "devDependencies": {
+    "gulp-clean": "^0.3.1",
     "gulp-concat": "^2.6.0",
     "gulp-copy": "0.0.2",
     "gulp-expect-file": "0.0.7",

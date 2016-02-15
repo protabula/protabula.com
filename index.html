@@ -28,6 +28,7 @@ carousels:
                 </div>
             </div>
         </div>
+        
     </section>
     
 
@@ -55,7 +56,9 @@ carousels:
             </div>
         </div>
      </div>
-     <div class="container marketing">        
+     
+     <div class="container marketing">     
+            
         <div class="row">
             <div class="col-md-12 text-xs-center">
                 <h2 class="featurette-heading mt0 mb50">ProTabula at a <span class="text-muted">glance</span></h2>
@@ -63,8 +66,43 @@ carousels:
         </div>
         
         {% include cards.html %}
-        
-        {% include footer.html %}
-
+     </div>
+     
+     
+     <div id="contact-us" class="ptb5" style="background-color: #EEEEEE;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 ">
+                    <h2 class="featurette-heading mt0 text-xs-center">Contact <span class="text-muted">us!</span></h2>
+                        
+                    <form id="contact" v-on:submit.prevent="onSubmit">
+                        <fieldset class="form-group">
+                            <label for="email">Email address</label>
+                            <input type="email" class="form-control" v-model="email" placeholder="Enter email">
+                            <small class="text-muted">We'll never share your email with anyone else.</small>
+                        </fieldset>
+                        <fieldset class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" class="form-control" v-model="name" placeholder="Chuck Norris">
+                        </fieldset>
+                        <fieldset class="form-group">
+                            <label for="title">Current Title</label>
+                            <select class="form-control" v-model="title" name="title" style="height: 38px;">
+                                <option>Select One</option>
+                                <option>Teacher</option>
+                                <option>Principle</option>
+                                <option>District Administrator</option>
+                                <option>Other</option>
+                            </select>
+                        </fieldset>
+                        <fieldset class="form-group">
+                            <label for="message">Message</label>
+                            <textarea class="form-control" v-model="message" name="message" rows="4"></textarea>
+                        </fieldset>
+                        
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
     </div>
-    <!-- /.container -->

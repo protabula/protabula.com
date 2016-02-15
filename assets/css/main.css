@@ -4651,16 +4651,16 @@ body {
     max-height: 550px; }
   .jumbotron .brand {
     font-family: "Leckerli One", cursive;
-    font-size: 60px;
+    font-size: 45;
     color: #0870be; }
     .jumbotron .brand small {
       color: #FF7373;
       font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-size: 16px;
       padding-left: 5px; }
-  @media (max-width: 33.9em) {
+  @media (min-width: 768px) {
     .jumbotron .brand {
-      font-size: 57px; } }
+      font-size: 60px; } }
 
 .jumbotron p:last-child {
   margin-bottom: 0; }
@@ -4683,7 +4683,8 @@ heading {
 
 .featurette-heading {
   margin-top: 2rem; }
-  .featurette-heading + p, .featurette-heading + dl {
+  .featurette-heading + p,
+  .featurette-heading + dl {
     font-size: 1.25rem;
     font-weight: 300; }
 
@@ -4691,18 +4692,25 @@ heading {
   margin-bottom: 1rem; }
 
 .icon-holder {
-  width: 140px;
   margin: 0 auto;
   position: relative;
   margin-bottom: 1rem;
   background-color: #0870be;
-  height: 140px;
-  width: 140px; }
+  height: 120px;
+  width: 120px; }
   .icon-holder i {
     line-height: inherit;
-    font-size: 4rem;
+    font-size: 3rem;
     margin-top: 23px;
     color: #FFF; }
+
+@media (min-width: 768px) {
+  .icon-holder {
+    height: 140px;
+    width: 140px; }
+    .icon-holder i {
+      font-size: 4rem;
+      margin-top: 23px; } }
 
 .mt0 {
   margin-top: 0 !important; }
