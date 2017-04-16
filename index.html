@@ -85,16 +85,16 @@ published: true
                         <input type='hidden' name='redirect_to' value='http://www.protabula.com/thank-you' />
                         <fieldset class="form-group">
                             <label for="email">Email address</label>
-                            <input type="email" class="form-control" id="email" name="email" placeholder="Enter email">
+                            <input type="email" class="form-control" id="email" name="email" placeholder="Enter email" required>
                             <small class="text-muted">We'll never share your email with anyone else.</small>
                         </fieldset>
                         <fieldset class="form-group">
                             <label for="name">Name</label>
-                            <input type="text" class="form-control" id="name" name="name" placeholder="Chuck Norris">
+                            <input type="text" class="form-control" id="name" name="name" placeholder="Chuck Norris" required>
                         </fieldset>
                         <fieldset class="form-group">
                             <label for="title">Current Title</label>
-                            <select class="form-control" v-model="title" id="title" name="title" style="height: 38px;">
+                            <select class="form-control" v-model="title" id="title" name="title" style="height: 38px;" required>
                                 <option>Select One</option>
                                 <option>Teacher</option>
                                 <option>Principal</option>
@@ -104,7 +104,7 @@ published: true
                         </fieldset>
                         <fieldset class="form-group">
                             <label for="message">Message</label>
-                            <textarea class="form-control" id="message" name="message" rows="4"></textarea>
+                            <textarea class="form-control" id="message" name="message" rows="4" required></textarea>
                         </fieldset>
                         
                           <button
