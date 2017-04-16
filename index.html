@@ -68,6 +68,11 @@ published: true
         {% include cards.html %}
      </div>
      
+    <script>
+    function onSubmit(token) {
+        document.getElementById("contact").submit();
+    }
+    </script>
      
      <div id="contact-us" class="ptb5" style="background-color: #EEEEEE;">
         <div class="container">
@@ -102,7 +107,9 @@ published: true
                             <textarea class="form-control" id="message" name="message" rows="4"></textarea>
                         </fieldset>
                         
-                        <button type="submit" class="btn btn-primary">Submit</button>
+                          <button
+                            data-sitekey="6LcbOR0UAAAAAFUmTEP_ktusgw04zL4ITRPxSLHj"
+                            data-callback="onSubmit" type="submit" class="g-recaptcha btn btn-primary">Submit</button>
                     </form>
                 </div>
             </div>
